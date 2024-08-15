@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yan Shiqi /Personal Homepage"
+title                    : "Shiqi Yan /Personal Homepage"
 title_separator          : "-"
-name                     : &name "Yan Shiqi"
+name                     : &name "Shiqi Yan"
 description              : &description "personal description"
 url                      : https://yansq.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "yansq/yansq.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yan Shiqi"
+  name             : "Shiqi Yan"
   pronouns         : # example: "she/her"  
   bio              : "Tsinghua University"
   location         : "China Beijing"
